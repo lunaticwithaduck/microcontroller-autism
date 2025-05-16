@@ -1,0 +1,6 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/denshi/Documents/projects/esp32/esp/esp-idf",
+  "idf.toolsPath": "/home/denshi/Documents/projects/esp32/esp/esp-idf/tools",
+  "idf.pythonInstallPath": "/usr/bin/python"
+}
